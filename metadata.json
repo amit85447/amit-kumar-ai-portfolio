@@ -1,0 +1,6 @@
+{
+  "name": "Amit Kumar - Data Analyst & AI Portfolio",
+  "description": "Interactive portfolio for Amit Kumar showcasing Data Analytics, AI/ML, GIS & Remote Sensing, interactive dashboards, project demos, and AI assistant.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
